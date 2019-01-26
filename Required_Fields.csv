@@ -1,0 +1,7 @@
+Description field,CVS field (CSV),Exact Item (field within list),Example,Data Type
+Total Contribution,irsClassification,incomeAmount," 10,000,000 ",float
+Donation Category,category,categoryName,Research and Public Policy,text
+Donation Category Code,category,categoryID,11,text
+Rating,currentRating,score,92.71,float
+Organization ID,ein,(no list),10202467,text
+State,mailingAddress,stateOrProvince,ME,text
