@@ -9,3 +9,6 @@ Various Analysis code:
 2. Ratings by Category Analysis.ipynb
 3. ScatterPlotCategories.ipynb
 4. State_observations.ipynb
+
+Slides:
+slides.pdf
